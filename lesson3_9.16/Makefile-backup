@@ -1,0 +1,10 @@
+cc=gcc
+flag=-o
+bin=mybin
+src=mytest.c
+
+$(bin):$(src)
+	$(cc) $(flag) $@ $^
+.PHONY:clean # 修饰mybin目标文件，成为一个伪目标, 总是被执行
+clean:
+	rm -f $(bin)
