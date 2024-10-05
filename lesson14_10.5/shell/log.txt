@@ -1,0 +1,12 @@
+log.txt
+Makefile
+[0m[01;32mmyshell[0m
+myshell.c
+log.txt
+Makefile
+[0m[01;32mmyshell[0m
+myshell.c
+log.txt
+Makefile
+[0m[01;32mmyshell[0m
+myshell.c
